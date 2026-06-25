@@ -42,11 +42,3 @@
 <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZyanWan&layout=compact&hide_border=true&theme=transparent&title_color=0f766e&text_color=334155" alt="Top languages" />
 
 </div>
-
----
-
-<div align="center">
-
-Building small tools with long memory.
-
-</div>
