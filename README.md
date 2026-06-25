@@ -1,5 +1,3 @@
-## Selected Work
-
 | Project | What it does | Stack / Ideas |
 | --- | --- | --- |
 | [Session-engram](https://github.com/ZyanWan/Session-engram) | Cross-session memory for AI coding assistants, preserving context, progress, timelines, and reusable experience. | Python · Markdown · Hooks · Knowledge Graph |
