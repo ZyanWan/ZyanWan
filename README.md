@@ -1,44 +1,69 @@
-# Hi, I'm Zhengyan Wang
+<div align="center">
+
+# Zhengyan Wang
 
 Creating for creators. Open source forever!
 
-## About Me
+AI Agent · Browser Automation · Knowledge Systems · EdTech
 
-- Building AI Agent systems, browser automation tools, and workflow orchestration platforms
-- Exploring long-term memory, knowledge graphs, RAG, MCP, and multi-agent collaboration
-- Applying AI to education, language learning, and creative production
+<a href="https://github.com/ZyanWan">
+  <img src="https://komarev.com/ghpvc/?username=ZyanWan&style=flat-square&color=0f766e" alt="profile views" />
+</a>
+<a href="https://github.com/ZyanWan?tab=repositories">
+  <img src="https://img.shields.io/badge/Projects-Open%20Source-0f766e?style=flat-square" alt="open source projects" />
+</a>
 
-## Featured Projects
+</div>
 
-### [Session-engram](https://github.com/ZyanWan/Session-engram)
+---
 
-Cross-session memory system for AI coding assistants.  
-It persists context, task progress, reusable experience, timelines, and knowledge graphs across conversations.
+## Focus
 
-### [Patchright-Agent-Skills](https://github.com/ZyanWan/Patchright-Agent-Skills)
+I build practical AI systems that help people create, learn, remember, and automate work.
 
-Reusable real-browser automation skills for AI Agents.  
-It provides persistent sessions, page probing, controlled actions, evidence capture, and workflow references based on Patchright.
+- AI Agent infrastructure and workflow orchestration
+- Real-browser automation with persistent sessions and evidence capture
+- Cross-session memory, knowledge graphs, RAG, and MCP-based tool ecosystems
+- AI-assisted education, language learning, and creative production
 
-### [Zyan](https://github.com/ZyanWan/Zyan)
+## Selected Work
 
-Full-stack AI Agent platform prototype.  
-Integrates conversational AI, MCP protocol, intelligent agents, knowledge base, RAG vector search, and visual workflow orchestration.
+| Project | What it does | Stack / Ideas |
+| --- | --- | --- |
+| [Session-engram](https://github.com/ZyanWan/Session-engram) | Cross-session memory for AI coding assistants, preserving context, progress, timelines, and reusable experience. | Python · Markdown · Hooks · Knowledge Graph |
+| [Patchright-Agent-Skills](https://github.com/ZyanWan/Patchright-Agent-Skills) | Reusable real-browser automation skills for AI Agents with controlled actions, diagnostics, and workflow references. | Python · Patchright · Agent Skills · Browser Automation |
+| [Zyan](https://github.com/ZyanWan/Zyan) | Full-stack AI Agent platform prototype with conversational AI, knowledge base, RAG search, and visual workflow orchestration. | React · TypeScript · Fastify · PostgreSQL · RAG |
+| [Hanzi-Etymology-Animation](https://github.com/ZyanWan/Hanzi-Etymology-Animation) | AI-powered Chinese character evolution video generator for language learning and visual storytelling. | Python · SVG · TTS · AI Video · EdTech |
 
-### [Hanzi-Etymology-Animation](https://github.com/ZyanWan/Hanzi-Etymology-Animation)
+## Toolkit
 
-AI-powered tool for generating Chinese character evolution videos.  
-Designed for Chinese language education through visual storytelling, glyph transformation, TTS, and video generation.
+<div align="center">
 
-## Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
+![MCP](https://img.shields.io/badge/MCP-Protocol-0f766e?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-Vector%20Search-0f766e?style=flat-square)
+![Automation](https://img.shields.io/badge/Browser-Automation-0f766e?style=flat-square)
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-000000?logo=fastify&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
+</div>
 
-## GitHub Stats
+## GitHub
 
-![ZyanWan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZyanWan&show_icons=true&theme=transparent)
+<div align="center">
+
+<img height="156" src="https://github-readme-stats.vercel.app/api?username=ZyanWan&show_icons=true&hide_title=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub stats" />
+<img height="156" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZyanWan&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
+
+</div>
+
+---
+
+<div align="center">
+
+Building small tools with long memory.
+
+</div>
