@@ -7,9 +7,6 @@ I'm a developer focused on **AI Agent systems** and **practical AI applications*
 ### [Session-Engram](https://github.com/ZyanWan/Session-Engram)
 Cross-session memory system for AI coding assistants. Enables persistent conversation context, task progress, and reusable experiences across different sessions. Features Hook-based auto-recall, interactive knowledge graph visualization, timeline organization, and global experience library. Supports Claude Code, Cursor, and OpenCode.
 
-### [Skill-Hub](https://github.com/ZyanWan/Skill-Hub)
-A curated collection of **300+ Claude Agent Skills** - modular instruction files that extend AI agent capabilities across AI engineering, product management, marketing, document processing, visual design, and Feishu collaboration. Each skill contains YAML metadata, Markdown instructions, executable scripts, and best practices.
-
 ### [Patchright-Agent-RPA](https://github.com/ZyanWan/Patchright-Agent-RPA)
 Browser automation RPA project designed for AI Agents. Built on Patchright with enhanced stealth and anti-detection capabilities, enabling AI agents to operate real web applications in a reusable, inspectable manner. Includes browser control, persistent sessions, page detection, controlled operations, evidence retention, and task workflows.
 
