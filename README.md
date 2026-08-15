@@ -1,12 +1,8 @@
 <div align="center">
 
-# Hi, I'm Zhengyan Wang 👋
+# Hi, I'm Zhengyan Wang
 
 *Stay hungry, stay foolish.* — Steve Jobs
-
-![AI Agent](https://img.shields.io/badge/AI%20Agent-4F46E5?style=flat-square)
-![Agent Skills](https://img.shields.io/badge/Agent%20Skills-0EA5E9?style=flat-square)
-![Open Source](https://img.shields.io/badge/Open%20Source-22C55E?style=flat-square)
 
 </div>
 
@@ -18,9 +14,9 @@
 
 ---
 
-## 🚀 开源项目
+## 开源项目
 
-以下是我的开源项目，如有感兴趣的，欢迎联系我进一步交流。
+以下是我的开源项目，如有感兴趣的同志，欢迎联系我进一步交流。
 
 ### [Skill-Hub](https://github.com/ZyanWan/Skill-Hub) · `Python`
 
@@ -44,35 +40,35 @@
 
 ---
 
-## 🛠️ 技术栈
+## 技术栈
 
 **语言**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-24292F?style=flat-square)
+![TypeScript](https://img.shields.io/badge/-TypeScript-24292F?style=flat-square)
+![JavaScript](https://img.shields.io/badge/-JavaScript-24292F?style=flat-square)
+![HTML5](https://img.shields.io/badge/-HTML5-24292F?style=flat-square)
+![CSS3](https://img.shields.io/badge/-CSS3-24292F?style=flat-square)
 
 **前端**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-593D88?style=flat-square)
+![React](https://img.shields.io/badge/-React-24292F?style=flat-square)
+![Vite](https://img.shields.io/badge/-Vite-24292F?style=flat-square)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-24292F?style=flat-square)
+![Zustand](https://img.shields.io/badge/-Zustand-24292F?style=flat-square)
 
 **生态**
 
-![Agent Skills](https://img.shields.io/badge/Agent%20Skills-4F46E5?style=flat-square)
-![MCP](https://img.shields.io/badge/MCP-0EA5E9?style=flat-square)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![Patchright](https://img.shields.io/badge/Patchright-8B5CF6?style=flat-square)
+![Agent Skills](https://img.shields.io/badge/-Agent%20Skills-24292F?style=flat-square)
+![MCP](https://img.shields.io/badge/-MCP-24292F?style=flat-square)
+![Git](https://img.shields.io/badge/-Git-24292F?style=flat-square)
+![npm](https://img.shields.io/badge/-npm-24292F?style=flat-square)
+![Playwright](https://img.shields.io/badge/-Playwright-24292F?style=flat-square)
+![Patchright](https://img.shields.io/badge/-Patchright-24292F?style=flat-square)
 
 ---
 
-## 📬 联系
+## 联系
 
-[![GitHub](https://img.shields.io/badge/GitHub-ZyanWan-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ZyanWan)
-[![Email](https://img.shields.io/badge/Email-1640433139%40qq.com-0A84FF?style=flat-square)](mailto:1640433139@qq.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-24292F?style=flat-square)](https://github.com/ZyanWan)
+[![Email](https://img.shields.io/badge/-Email-24292F?style=flat-square)](mailto:1640433139@qq.com)
