@@ -65,7 +65,3 @@
 
 [![GitHub](https://img.shields.io/badge/-GitHub-4A5568?style=flat-square&logo=github&logoColor=white&labelColor=4A5568)](https://github.com/ZyanWan)
 [![Email](https://img.shields.io/badge/-Email-4A7A99?style=flat-square&labelColor=4A7A99)](mailto:1640433139@qq.com)
-
-
-[![GitHub](https://img.shields.io/badge/-GitHub-24292F?style=flat-square)](https://github.com/ZyanWan)
-[![Email](https://img.shields.io/badge/-Email-24292F?style=flat-square)](mailto:1640433139@qq.com)
