@@ -47,7 +47,7 @@ A modern AI Agent platform prototype that integrates five core modules: conversa
 </details>
 
 <details>
-<summary><strong><a href="https://github.com/ZyanWan/Hanzi-Etymology-Animation">Hanzi-Etymology-Animation</a></strong> · <code>Python</code> — A teaching tool that automatically generates animations of Chinese character evolution from oracle bone script to regular script</summary>
+<summary><strong><a href="https://github.com/ZyanWan/Hanzi-Etymology-Animation">Hanzi-Etymology-Animation</a></strong> · <code>Python</code> — An automatic teaching tool for Chinese character evolution animations</summary>
 
 A Chinese character etymology animation tool designed for teaching Chinese as a foreign language. It automatically retrieves historical character forms from oracle bone script to regular script, generates continuous evolution animations with Alibaba Cloud Wan2.7, and adds voice narration using Volcano Engine TTS, helping students understand why Chinese characters look the way they do today.
 
