@@ -26,7 +26,7 @@ An Agent Skills library and management system for AI coding assistants, containi
 </details>
 
 <details>
-<summary><strong><a href="https://github.com/ZyanWan/Patchright-Agent-RPA">Patchright-Agent-RPA</a></strong> · <code>TypeScript</code> / <code>Python</code> — A real browser automation skill layer for AI agents</summary>
+<summary><strong><a href="https://github.com/ZyanWan/Patchright-RPA">Patchright-RPA</a></strong> · <code>TypeScript</code> / <code>Python</code> — A real browser automation skill layer for AI agents</summary>
 
 A real browser automation skill layer for AI agents. Built on Patchright, it encapsulates persistent sessions, page probing, controlled operations, and evidence retention. It can be distributed to Codex and Claude Code through an npm installer and supports packaging standalone skills by business domain.
 
