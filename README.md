@@ -26,6 +26,20 @@ An Agent Skills library and management system for AI coding assistants, containi
 </details>
 
 <details>
+<summary><strong><a href="https://github.com/ZyanWan/Talent-Hub">Talent-Hub</a></strong> · <code>Python</code> — A local-first, evidence-driven AI workspace for recruitment</summary>
+
+A local-first, evidence-driven AI workspace for recruitment. It helps HR teams process resumes in batches, generate consistent screening criteria, classify candidates into interview, verification, or rejection groups, and trace every key assessment back to evidence in the original resume. It also supports batch call-recording transcription, structured interview-note generation, human review, and exportable Excel and Markdown deliverables. Credentials are protected with Windows DPAPI, and the application service is restricted to the local loopback interface.
+
+</details>
+
+<details>
+<summary><strong><a href="https://github.com/ZyanWan/Hanzi-Etymology-Animation">Hanzi-Etymology-Animation</a></strong> · <code>Python</code> — An automatic teaching tool for Chinese character evolution animations</summary>
+
+A Chinese character etymology animation tool designed for teaching Chinese as a foreign language. It automatically retrieves historical character forms from oracle bone script to regular script, generates continuous evolution animations with Alibaba Cloud Wan2.7, and adds voice narration using Volcano Engine TTS, helping students understand why Chinese characters look the way they do today.
+
+</details>
+
+<details>
 <summary><strong><a href="https://github.com/ZyanWan/Patchright-RPA">Patchright-RPA</a></strong> · <code>TypeScript</code> / <code>Python</code> — A real browser automation skill layer for AI agents</summary>
 
 A real browser automation skill layer for AI agents. Built on Patchright, it encapsulates persistent sessions, page probing, controlled operations, and evidence retention. It can be distributed to Codex and Claude Code through an npm installer and supports packaging standalone skills by business domain.
@@ -43,20 +57,6 @@ A cross-session memory system for AI coding assistants. It uses Markdown to pers
 <summary><strong><a href="https://github.com/ZyanWan/Zyan">Zyan</a></strong> · <code>React</code> / <code>TypeScript</code> — A platform prototype integrating chat, MCP management, Agent configuration, and workflow canvas</summary>
 
 A modern AI Agent platform prototype that integrates five core modules: conversational AI, MCP management, Agent configuration, a visual workflow canvas powered by React Flow, and a knowledge base. It is built with Vite, React 18, Zustand, and Tailwind CSS v4, with support for dark and light themes.
-
-</details>
-
-<details>
-<summary><strong><a href="https://github.com/ZyanWan/Hanzi-Etymology-Animation">Hanzi-Etymology-Animation</a></strong> · <code>Python</code> — An automatic teaching tool for Chinese character evolution animations</summary>
-
-A Chinese character etymology animation tool designed for teaching Chinese as a foreign language. It automatically retrieves historical character forms from oracle bone script to regular script, generates continuous evolution animations with Alibaba Cloud Wan2.7, and adds voice narration using Volcano Engine TTS, helping students understand why Chinese characters look the way they do today.
-
-</details>
-
-<details>
-<summary><strong><a href="https://github.com/ZyanWan/Talent-Hub">Talent-Hub</a></strong> · <code>Python</code> — A local-first, evidence-driven AI workspace for recruitment</summary>
-
-A local-first, evidence-driven AI workspace for recruitment. It helps HR teams process resumes in batches, generate consistent screening criteria, classify candidates into interview, verification, or rejection groups, and trace every key assessment back to evidence in the original resume. It also supports batch call-recording transcription, structured interview-note generation, human review, and exportable Excel and Markdown deliverables. Credentials are protected with Windows DPAPI, and the application service is restricted to the local loopback interface.
 
 </details>
 
