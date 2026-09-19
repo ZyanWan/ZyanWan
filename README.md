@@ -12,8 +12,6 @@
 
 I’ve been using AI coding tools for quite a while. Over time, I realized that what really draws me isn’t the tools themselves, but what happens when they enter real business scenarios—which parts can be handed over to agents, which only seem smart, and which genuinely save time and energy. That’s a question worth thinking about.
 
----
-
 ## Open Source Projects
 
 Here are my open-source projects:
@@ -60,13 +58,9 @@ A modern AI Agent platform prototype that integrates five core modules: conversa
 
 </details>
 
----
-
 ## Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-5A7FA3?style=flat-square&logo=python&logoColor=white&labelColor=5A7FA3) ![TypeScript](https://img.shields.io/badge/-TypeScript-4E7E9E?style=flat-square&logo=typescript&logoColor=white&labelColor=4E7E9E) ![JavaScript](https://img.shields.io/badge/-JavaScript-C2A54F?style=flat-square&logo=javascript&logoColor=white&labelColor=C2A54F) ![HTML5](https://img.shields.io/badge/-HTML5-C2704F?style=flat-square&logo=html5&logoColor=white&labelColor=C2704F) ![CSS3](https://img.shields.io/badge/-CSS3-3F7FA3?style=flat-square&logo=css3&logoColor=white&labelColor=3F7FA3) ![React](https://img.shields.io/badge/-React-3E9BB8?style=flat-square&logo=react&logoColor=white&labelColor=3E9BB8) ![Vite](https://img.shields.io/badge/-Vite-6C72C4?style=flat-square&logo=vite&logoColor=white&labelColor=6C72C4) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-2F9DAE?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=2F9DAE) ![Zustand](https://img.shields.io/badge/-Zustand-6F5FA8?style=flat-square&logo=zustand&logoColor=white&labelColor=6F5FA8) ![Agent Skills](https://img.shields.io/badge/-Agent%20Skills-6D7BC6?style=flat-square&labelColor=6D7BC6) ![MCP](https://img.shields.io/badge/-MCP-5B7FA3?style=flat-square&labelColor=5B7FA3) ![Git](https://img.shields.io/badge/-Git-C05F45?style=flat-square&logo=git&logoColor=white&labelColor=C05F45) ![npm](https://img.shields.io/badge/-npm-B05754?style=flat-square&logo=npm&logoColor=white&labelColor=B05754) ![Playwright](https://img.shields.io/badge/-Playwright-4C9A5E?style=flat-square&logo=playwright&logoColor=white&labelColor=4C9A5E) ![Patchright](https://img.shields.io/badge/-Patchright-8A77C9?style=flat-square&labelColor=8A77C9)
-
----
+![Python](https://img.shields.io/badge/-Python-5A7FA3?style=flat-square&logo=python&logoColor=white&labelColor=5A7FA3) ![TypeScript](https://img.shields.io/badge/-TypeScript-4E7E9E?style=flat-square&logo=typescript&logoColor=white&labelColor=4E7E9E) ![JavaScript](https://img.shields.io/badge/-JavaScript-C2A54F?style=flat-square&logo=javascript&logoColor=white&labelColor=C2A54F) ![HTML5](https://img.shields.io/badge/-HTML5-C2704F?style=flat-square&logo=html5&logoColor=white&labelColor=C2704F) ![CSS3](https://img.shields.io/badge/-CSS3-3F7FA3?style=flat-square&logo=css3&logoColor=white&labelColor=3F7FA3) ![React](https://img.shields.io/badge/-React-3E9BB8?style=flat-square&logo=react&logoColor=white&labelColor=3E9BB8) ![Vite](https://img.shields.io/badge/-Vite-6C72C4?style=flat-square&logo=vite&logoColor=white&labelColor=6C72C4) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-2F9DAE?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=2F9DAE) ![Git](https://img.shields.io/badge/-Git-C05F45?style=flat-square&logo=git&logoColor=white&labelColor=C05F45) ![npm](https://img.shields.io/badge/-npm-B05754?style=flat-square&logo=npm&logoColor=white&labelColor=B05754) ![Playwright](https://img.shields.io/badge/-Playwright-4C9A5E?style=flat-square&logo=playwright&logoColor=white&labelColor=4C9A5E)
 
 ## Contact
 
