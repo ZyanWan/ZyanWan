@@ -10,7 +10,7 @@
 
 ## About Me
 
-I have been using AI coding tools for a long time and maintain several open-source projects around real-world use cases, focusing on AI agents and the practical implementation and efficiency improvement of various real business scenarios. I enjoy studying the principles behind tools and am passionate about turning ideas into reality quickly. I continuously contribute open-source projects and technical sharing, and I am happy to grow together with the community. I hope to truly integrate AI into everyday learning and work to solve real problems. I learn quickly, persist over the long term, and always maintain enthusiasm for technology. I welcome exchanges and collaboration with friends interested in AI agents and business implementation.
+I’ve been using AI coding tools for quite a while. Over time, I realized that what really draws me isn’t the tools themselves, but what happens when they enter real business scenarios—which parts can be handed over to agents, which only seem smart, and which genuinely save time and energy. That’s a question worth thinking about.
 
 ---
 
